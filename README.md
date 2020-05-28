@@ -9,8 +9,8 @@ Matching or Similar words (Any word within 1 character diffrence found by Wildca
 E.G. CAT is similar to  BAT, COT , SAT.
 
 Sepreatly the output of All words in the structure matching a wildcard pattern
-? = any single character.
-* = any number of characters including.
+"?" = any single character.
+"*" = any number of characters including.
 
 
 A Trie was the Chosen implementation of the word structure given it's a tree based structure that is specific for characters
