@@ -10,7 +10,7 @@ E.G. CAT is similar to  BAT, COT , SAT.
 
 Sepreatly the output of All words in the structure matching a wildcard pattern
 "?" = any single character.
-"*" = any number of characters including.
+"*" = any number of characters including an Empty character.
 
 
 A Trie was the Chosen implementation of the word structure given it's a tree based structure that is specific for characters
